@@ -1,0 +1,5 @@
+torch
+torchtext
+matplotlib
+pandas 
+sklearn
