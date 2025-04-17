@@ -7,7 +7,7 @@ To install the necessary dependencies, run the following command:
     pip install -r requirements.txt
 
 ## Data processing
-`dataset matching.py` This script responsible for macthing the original en and de dataset, and tokenizer.
+-`dataset matching.py` This script responsible for macthing the original en and de dataset, and tokenizer.
 
 - `dictionary and index transformer.py` This script responsible to creat the dictionary and translate tokens from words to indexs.
 - `expand.py` and `shuffle.py` These are used to expand the dataset.
